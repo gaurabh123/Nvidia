@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+folium
+geopy
+twilio
+fastapi
+uvicorn[standard]

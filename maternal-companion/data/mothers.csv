@@ -1,0 +1,6 @@
+id,name,phone,lat,lng,days_postpartum,bleeding,temp_c,headache,vision_blur,baby_feeding,language,priority
+m1,Sita,5551111,27.7172,85.3240,1,heavy,37.5,false,false,yes,ne,auto
+m2,Anita,5552222,27.7050,85.3299,2,none,38.3,false,false,yes,ne,auto
+m3,Gita,5553333,27.7090,85.3150,3,none,36.8,true,true,yes,ne,auto
+m4,Radha,5554444,27.7045,85.3180,1,none,36.5,false,false,no,ne,auto
+m5,Sarita,5555555,27.7120,85.3320,5,none,36.9,false,false,yes,ne,auto
